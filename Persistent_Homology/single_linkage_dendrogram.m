@@ -5,13 +5,13 @@ function single_linkage_dendrogram(D,disp_option,nc)
 % The dendrogram is colorized according to the distance from the giant component. 
 % 
 % D: p-by-p distance matrix (p: number of nodes)  
-% disp_option  : display option 
+% disp_option: display option 
 %  1) 'distance' the color of bar changes according to the threshold when 
 %                        the bar disappears 
 %  2) 'cluster' the color of bar is determined by clusters 
-% nc       : the number of cluster that the color of bar is determined,
+%  nc: the number of cluster that the color of bar is determined,
 %            this input is necessary when disp_option is 'cluster'
-% max_dist : the maximum distance from the giant component in [1]. 
+%  max_dist: the maximum distance from the giant component in [1]. 
 %
 %
 % EXAMPLE: 
