@@ -24,7 +24,7 @@ save FMRIraw_Control
 
 
 %% 
-% Make SLD matrix for individuals in ADHD group
+% Make SLD matrix for individuals in patient group
 clear all;
 
 load('FMRIraw_Control.mat')
@@ -46,7 +46,9 @@ save SLD_Group_Control SLD_Group_Control
 save Cx_Group_Control Cx_Group
 save A_Group_Control A_Group
 
+
 % Draw single linkage matrix figures for 10 sample cases
+
 for i = 21:30
     subplot(2,5,i-20); imagesc(Original.Dx(:,:,i-20));
     axis square
