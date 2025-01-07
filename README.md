@@ -4,7 +4,7 @@
 
 #### 뇌영상 전처리를 통한 뇌 네트워크 매트릭스 생성
 
-<img width="398" alt="pre1" src="https://github.com/user-attachments/assets/bf14d52f-2747-4598-bf0a-c4c99dab466b" />
+<img width="500" alt="pre1" src="https://github.com/user-attachments/assets/bf14d52f-2747-4598-bf0a-c4c99dab466b" />
 
 
 #### 네트워크 거리의 임계값에 따른 형태 변화
