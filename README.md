@@ -6,7 +6,7 @@
 
 <img width="850" alt="pro2" src="https://github.com/user-attachments/assets/ebf7246d-4845-4431-a87b-6744d17a92df" />
 
-<img width="400" alt="pro3" src="https://github.com/user-attachments/assets/50a67532-9cda-401e-86c1-15903eb3356d" />
+<p align="center"><img width="400" alt="pro3" src="https://github.com/user-attachments/assets/50a67532-9cda-401e-86c1-15903eb3356d" /></p>
 
 #### 네트워크 거리의 임계값에 따른 형태 변화
 
