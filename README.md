@@ -1,7 +1,7 @@
 ## Persistent Homology 알고리즘 
    
 + 위상수학의 그래프 이론에 기반. 뇌 네트워크 형태에 따른 분석으로 환자군과 정상군의 뇌를 비교할 때 유용하게 사용된다.
-+ [Persistent Homology 알고리즘 발표 자료 링크](https://drive.google.com/file/d/1-0AY6BEuUonqExRGY5PbOnwXWqDN1YDu/view?usp=drive_link)    
++ [Persistent Homology 발표 자료 링크](https://drive.google.com/file/d/1-0AY6BEuUonqExRGY5PbOnwXWqDN1YDu/view?usp=drive_link)    
 <br>
 
 ### 뇌영상 전처리를 통한 뇌 네트워크 매트릭스 생성
